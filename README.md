@@ -1,5 +1,7 @@
 # Pensiju Kalkulators Excel
 
+Disclaimer: Made in Latvian 🇱🇻
+
 Excel-based pension accumulation calculator built as a financial modeling and spreadsheet engineering project.
 
 The workbook estimates how pension savings can grow over time based on:
